@@ -13,8 +13,8 @@ def main():
     print("{}".format(num_a - num_b))
 
 #multiply
-	num_a = int(input("Enter a number to multiply: "))
-	num_b = int(input("Enter a second number to multiply: "))
-	print("{}".format(num_a * num_b))
+    num_a = int(input("Enter a number to multiply: "))
+    num_b = int(input("Enter a second number to multiply: "))
+    print("{}".format(num_a * num_b))
 
 main()
